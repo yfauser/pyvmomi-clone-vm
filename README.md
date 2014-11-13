@@ -1,0 +1,1 @@
+This is an example on how to clone a VM in vCenter with a guest customization rule attached to it
